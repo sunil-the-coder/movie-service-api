@@ -1,0 +1,45 @@
+
+---------- Mini Project - Movie Management System  --------
+
+
+In the digital era, movie enthusiasts and industry professionals require a centralized platform to store and manage online movie information efficiently. However, existing solutions often lack flexibility, scalability, or ease of use in managing large movie databases.
+
+This project aims to develop a Movie Management System, which will allow users to add, update, delete, and search movies seamlessly. The system will store essential movie details such as title, genre, release date, cast, director, ratings, and reviews. The platform should be user-friendly, ensuring efficient data retrieval and management.
+
+
+Key API Requirements - ( Challenges )
+
+1. Designing a scalable and efficient database structure to store movie information.
+
+2. Implementing CRUD (Create, Read, Update, Delete) operations securely and efficiently.
+
+3. Enabling a fast and intelligent search mechanism for retrieving movies based on multiple criteria (title, genre, release year, etc.).
+
+4. Ensuring data integrity and preventing duplication or inconsistent records.
+
+
+The solution will be beneficial for movie enthusiasts, content creators, and businesses managing large movie databases, providing a seamless and structured way to handle movie-related information.
+
+
+Think of this as an backend services for the Netflix/Prime kind of front end application where user interacts with systems.
+
+
+
+
+
+---- NOTES for Students ------
+
+	1. Create the separate repo in github.com with the same name as below - 
+
+	https://github.com/sunil-the-coder/movie-service-api
+
+	2. Use IntelliJ IDE for an regular development on this service
+
+	3. You can use any type of collections here.
+
+	4. This solution should store data into main memory.
+
+	5. Write unit tests for verifying your API.
+
+	6. 
+
